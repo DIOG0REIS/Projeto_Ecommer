@@ -1,4 +1,4 @@
-# 📚Projeto Lógico de 
+# 📚Primeiro Projeto Lógico de Banco de Dados
 Bem-vindo(a) ao _challenge_ que resolvi. Espero que lhe seja útil!
 ## Sobre o Desafio
 
